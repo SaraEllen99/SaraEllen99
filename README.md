@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaraEllen99
-- 👀 I’m interested in paperless.ngx
+- 👀 I’m interested in paperless-ngx
 - 🌱 I’m currently learning python and container admin
 - 📫 How to reach me - prefer not...
 - 😄 Pronouns: she/her
